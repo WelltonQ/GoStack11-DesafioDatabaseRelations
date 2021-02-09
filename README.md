@@ -153,4 +153,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para
 
 ---
 
+<p align="center">
+<img alt="DesafioDatabaseRelations" src="https://user-images.githubusercontent.com/12499627/107296827-e95c4b80-6a50-11eb-9cd4-027455746faf.png" />
+</p>
+
 ✔ By Wellton Quirino, [Linkedin](https://www.linkedin.com/in/welltonquirino95/)
